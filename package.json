@@ -1,0 +1,24 @@
+{
+  "name": "vincyengine",
+  "version": "1.0.0",
+  "description": "h5 engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc:w": "tsc-w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eatdreamcat/VincyEngine.git"
+  },
+  "author": "vincy wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eatdreamcat/VincyEngine/issues"
+  },
+  "homepage": "https://github.com/eatdreamcat/VincyEngine#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "typescript": "^3.5.3"
+  }
+}
